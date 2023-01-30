@@ -1,0 +1,40 @@
+~Bitte geben Sie nachfolgend die Cartan-Matrix des Wurzelsystems ein:
+#G_2
+2 -3
+-1 2
+
+#F_4
+2 -1 0 0
+-1 2 -1 0
+0 -2 2 -1
+0 0 -1 2
+
+#noCartanExample
+-2 0 3
+1 2 0
+1 0 -1
+
+#D_4
+2 -1 0 0
+-1 2 -1 -1
+0 -1 2 0
+0 -1 0 2
+
+#D_5
+2 -1 0 0 0
+-1 2 -1 0 0
+0 -1 2 -1 -1
+0 0 -1 2 0
+0 0 -1 0 2
+
+#E_6
+2 -1 0 0 0 0
+-1 2 -1 0 0 0
+0 -1 2 -1 -1 0
+0 0 -1 2 0 0
+0 0 -1 0 2 -1
+0 0 0 0 -1 2
+
+
+~Geben Sie nachfolgend ein oder mehrere Wörter ein, welche für die Berechnungen verwendet werden soll. Die Spiegelungen sollen dabei von 0 bis (Rang des Wurzelsystems) - 1 nummeriert sein:
+0 1 0 1 0
